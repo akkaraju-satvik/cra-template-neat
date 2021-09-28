@@ -16,3 +16,11 @@ root dir
 |--- package.json
 |--- package-lock.json
 ```
+
+---
+
+## Usage
+
+The template can be used while creating the react app.
+
+`npx create-react-app app-name --template neat`
